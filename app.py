@@ -26,7 +26,7 @@ from dotenv import load_dotenv
 import os
 
 
-BOT_TOKEN = "8000279690:AAFWjG2ugfCf_g1pYumkMS2I-KTHVmGxXp0"
+BOT_TOKEN = "7090605258:AAFo342SNMlKxHMMG4zHTNVXDW6Zs9oRkTQ"
 
 
 COOLDOWN_FILE = "cooldown.json"
